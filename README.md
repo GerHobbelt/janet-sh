@@ -1,6 +1,6 @@
 # janet-sh
 
-Shorthand shell-like functions for Janet.
+Shorthand shell-like functions for [Janet](https://janet-lang.org/).
 
 The rationale and design is partially covered in a [blog post](https://acha.ninja/blog/dsl_for_shell_scripting/)
 
